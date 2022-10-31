@@ -22,9 +22,10 @@ body {
 
 @media (max-width:768px) {
 
-  .wrapper { text-align: center;
+  .wrapper {
+    text-align: center;
+  }
 
-}
 }
 
 .main-wrapper {
@@ -52,7 +53,7 @@ li, h3 {
   list-style:none;
 }
 
-input,button{
+input,button {
   outline:none;
 }
 
